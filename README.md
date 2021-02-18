@@ -1,1 +1,1 @@
-Gamification for teaching activities at university level
+It was developed by a team of students in which I was involved 
